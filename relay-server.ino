@@ -7,8 +7,8 @@
 #define led_red 4
 #define relay 5
 
-const char* ssid = "TP-Link_FF2C";
-const char* password = "92925618";
+const char* ssid = "";
+const char* password = "";
 int status = LOW;
 WebServer server(80);
 
